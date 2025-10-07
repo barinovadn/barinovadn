@@ -8,8 +8,8 @@
 
 <img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" />
 <img alt="me" width="25%" height="350px" src="https://i.pinimg.com/736x/71/cc/84/71cc843a03b56a4581231ec847493469.jpg" />
-<img alt="me" width="25%" height="350px" src="https://i.pinimg.com/736x/10/ed/86/10ed86432d30eed61b1d4ca960cb0dd7.jpg" />
-<img alt="me" width="23.5%" height="350px" src="https://i.imgur.com/8iYVY8v.png" />
+<img alt="me" width="28%" height="350px" src="https://i.pinimg.com/736x/10/ed/86/10ed86432d30eed61b1d4ca960cb0dd7.jpg" />
+<img alt="me" width="20.5%" height="350px" src="https://i.imgur.com/8iYVY8v.png" />
 <img alt="me" width="25%" height="350px" src="https://i.pinimg.com/736x/cd/a5/21/cda521c78b7b7a9bf6b6df85f8689eb2.jpg" />
 
 <div align="center">
