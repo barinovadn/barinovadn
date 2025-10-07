@@ -32,19 +32,20 @@
 • 𝕬 𝔭𝔯𝔬𝔧𝔢𝔠𝔱 𝔱𝔥𝔞𝔱 𝔴𝔦𝔩𝔩 𝔪𝔞𝔨𝔢 𝔪𝔢 𝔯𝔦𝔠𝔥 𝔞𝔫𝔡 𝔣𝔞𝔪𝔬𝔲𝔰  
 • 𝕸𝔶 𝔭𝔦𝔩𝔢 𝔬𝔣 𝔲𝔫𝔦 𝔞𝔰𝔰𝔦𝔤𝔫𝔪𝔢𝔫𝔱𝔰  
 
-<h3><b>𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘 & 𝕿𝖔𝖔𝖑𝖘:</b></h3>
+<h3><b>𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘 ﹠ 𝕿𝖔𝖔𝖑𝖘:</b></h3>
 
 ☠️ JavaScript (it's complicated)  
-🥀 Python (my emotional support language)  
+🥀 Python *(my emotional support language)*  
 ☠️ CSS (where my designs go to die)  
 ☠️ Java (we're in a toxic relationship)  
-☠️ C++ (help me)
+☠️ C++ ~~(help me)~~
 
-<img src="https://github-readme-stats.vercel.app/api?username=barinovadn&theme=radical" /><h6>I suck.<br>
+<h6>I suck.<br>
 ( Even at coding )</h6>
+<img src="https://github-readme-stats.vercel.app/api?username=barinovadn&theme=radical" />
 
-
-<div align="center">
+<br>
+<br><div align="center">
   <code>𝕺𝖓𝖈𝖊 𝖚𝖕𝖔𝖓 𝖆 𝖙𝖎𝖒𝖊,
 𝖙𝖍𝖊𝖗𝖊 𝖜𝖆𝖘 𝖆 𝖌𝖎𝖗𝖑
 𝖜𝖍𝖔 𝖙𝖍𝖔𝖚𝖌𝖍𝖙 𝖘𝖍𝖊 𝖈𝖔𝖚𝖑𝖉 𝖈𝖔𝖉𝖊...
