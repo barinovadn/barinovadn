@@ -42,7 +42,11 @@
 🥀 Python (my emotional support language)  
 ☠️ CSS (where my designs go to die)  
 ☠️ Java (we're in a toxic relationship)  
-☠️ C++ (help me)  
+☠️ C++ (help me)
+
+<img src="https://github-readme-stats.vercel.app/api?username=barinovadn&theme=radical" /><h6>I suck.<br>
+( Even at coding )</h6>
+
 
 <br>
 <br>
