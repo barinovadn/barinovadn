@@ -3,7 +3,7 @@
 <center>
 
 <div align="center">
-<h1><b>✧ 𝔤𝔬𝔱𝔥 𝔤𝔦𝔯𝔩 𒉭 𝔡𝔢𝔳 𝔡𝔦𝔞𝔯𝔦𝔢𝔰 ✧</b></h1>
+<h1><b>✧ 𝐆𝔬𝔱𝔥 𝖌𝔦𝔯𝔩 𒉭 𝓓𝔢𝔳 𝒹𝔦𝔞𝔯𝔦𝔢𝔰 ✧</b></h1>
 </div>
 
 <img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" />
