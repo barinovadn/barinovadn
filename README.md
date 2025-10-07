@@ -22,14 +22,14 @@
 <h3><b>𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘 & 𝕿𝖔𝖔𝖑𝖘:</b></h3>
 
 ☠️ JavaScript (it's complicated)  
-☠️ Python (my emotional support language)  
+🥀 Python (my emotional support language)  
 ☠️ CSS (where my designs go to die)  
 ☠️ Java (we're in a toxic relationship)  
 ☠️ C++ (help me)  
 
 <br>
 
-<hr width="50%">
+<img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" />
 
 <br>
 
@@ -45,7 +45,8 @@
 
 <br>
 
-<hr width="50%">
+<img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" />
+
 
 <br>
 
@@ -53,14 +54,15 @@
 
 <br>
 
-[![Discord](https://img.shields.io/badge/-Add%20me%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](your-discord-link)  
+[![Discord](https://img.shields.io/badge/-Add%20me%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://ru.pinterest.com/pin/1037798307878710815)  
+[![Spotify](https://img.shields.io/badge/-Get%20a%20taste%20of%20perfection-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://www.youtube.com/watch?v=BTksETlbL8E&list=RDBTksETlbL8E&start_radio=1)  
 [![Instagram](https://img.shields.io/badge/-Stalk%20my%20feed-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your-insta-link)  
-[![Spotify](https://img.shields.io/badge/-See%20my%20emo%20playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](your-spotify-link)  
-[![LinkedIn](https://img.shields.io/badge/-My%20professional%20facade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)  
+[![LinkedIn](https://img.shields.io/badge/-My%20professional%20facade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ru.pinterest.com/pin/307933693294618700)  
 
 <br>
 
-<hr width="50%">
+<img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" />
+
 
 <br>
 
