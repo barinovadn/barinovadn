@@ -7,10 +7,9 @@
 </div>
 
 <img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" /><img width="10%" alt="x" src="https://i.pinimg.com/736x/7b/40/89/7b4089e9d70c2ced16312221eb5968ed.jpg" />
-<img alt="me" width="25%" height="350px" src="https://i.pinimg.com/736x/71/cc/84/71cc843a03b56a4581231ec847493469.jpg" />
-<img alt="me" width="28%" height="350px" src="https://i.pinimg.com/736x/10/ed/86/10ed86432d30eed61b1d4ca960cb0dd7.jpg" />
-<img alt="me" width="20.5%" height="350px" src="https://i.imgur.com/8iYVY8v.png" />
-<img alt="me" width="25%" height="350px" src="https://i.pinimg.com/736x/cd/a5/21/cda521c78b7b7a9bf6b6df85f8689eb2.jpg" />
+<img alt="me" width="33%" height="350px" src="https://i.pinimg.com/736x/71/cc/84/71cc843a03b56a4581231ec847493469.jpg" />
+<img alt="me" width="33%" height="350px" src="https://i.pinimg.com/736x/10/ed/86/10ed86432d30eed61b1d4ca960cb0dd7.jpg" />
+<img alt="me" width="33%" height="350px" src="https://i.pinimg.com/736x/cd/a5/21/cda521c78b7b7a9bf6b6df85f8689eb2.jpg" />
 
 <div align="center">
 <img height="100px" alt="F*cking 404" src="https://media.tenor.com/dFO5zLWfGZcAAAAi/emokitten-little-emo-kitten.gif" />
@@ -26,15 +25,12 @@
 ✧ 𝕲𝖆𝖒𝖊𝖗 𝖌𝖎𝖗𝖑 (𝔭𝔩𝔞𝔶𝔰 𝔰𝔦𝔪𝔰 𝔣𝔬𝔯 8 𝔥𝔬𝔲𝔯𝔰 𝔰𝔱𝔯𝔞𝔦𝔤𝔥𝔱)  
 ✧ 𝕻𝖗𝖔𝖋𝖊𝖘𝖘𝖎𝖔𝖓𝖆𝖑 𝖕𝖗𝖔𝖈𝖗𝖆𝖘𝖙𝖎𝖓𝖆𝖙𝖔𝖗  
 
-<br>
 
-  <h3><b>𝕮𝖚𝖗𝖗𝖊𝖓𝖙𝖑𝖞 𝖇𝖚𝖎𝖑𝖉𝖎𝖓𝖌:</b></h3>
+<h3><b>𝕮𝖚𝖗𝖗𝖊𝖓𝖙𝖑𝖞 𝖇𝖚𝖎𝖑𝖉𝖎𝖓𝖌:</b></h3>
   
 • 𝕸𝖞 𝖘𝖆𝖓𝖎𝖙𝖞 (𝔧𝔨, 𝔦𝔱'𝔰 𝔤𝔬𝔫𝔢)  
 • 𝕬 𝔭𝔯𝔬𝔧𝔢𝔠𝔱 𝔱𝔥𝔞𝔱 𝔴𝔦𝔩𝔩 𝔪𝔞𝔨𝔢 𝔪𝔢 𝔯𝔦𝔠𝔥 𝔞𝔫𝔡 𝔣𝔞𝔪𝔬𝔲𝔰  
 • 𝕸𝔶 𝔭𝔦𝔩𝔢 𝔬𝔣 𝔲𝔫𝔦 𝔞𝔰𝔰𝔦𝔤𝔫𝔪𝔢𝔫𝔱𝔰  
-
-<br>
 
 <h3><b>𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘 & 𝕿𝖔𝖔𝖑𝖘:</b></h3>
 
@@ -46,10 +42,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=barinovadn&theme=radical" /><h6>I suck.<br>
 ( Even at coding )</h6>
-
-
-<br>
-<br>
 
 
 <div align="center">
